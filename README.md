@@ -44,7 +44,7 @@ You can place your dataset in the `/data` folder or load from a CSV file. Exampl
 ```python
 df = pd.read_csv("data/railway_accidents.csv")
 
-🚀 How to Run
+##🚀 How to Run
 1.Clone the repository:
 git clone https://github.com/Krishna23-IT/Managing_Safety_Accidents_in_Railways.git
 cd Managing_Safety_Accidents_in_Railways
@@ -52,8 +52,9 @@ cd Managing_Safety_Accidents_in_Railways
 2.Install required packages:
 pip install -r requirements.txt
 3.Run the server
-📩 Contributions
-Pull requests are welcome. For major changes, please open an issue first.
 
-@Contact: 
-[gaddammuralikrishna2@gmail.com]
+📧 Contact
+For any inquiries or feedback:
+
+Murali Krishna
+📧[gaddammuralikrishna2@gmail.com]
