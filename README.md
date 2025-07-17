@@ -43,9 +43,11 @@ You can place your dataset in the `/data` folder or load from a CSV file.
 
 
 **##🚀 How to Run**
+
 1.Clone the repository:
 
 git clone https://github.com/Krishna23-IT/Managing_Safety_Accidents_in_Railways.git
+
 cd Managing_Safety_Accidents_in_Railways
 
 2.Install required packages:
