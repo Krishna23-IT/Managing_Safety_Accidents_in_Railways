@@ -41,14 +41,18 @@ This project applies **unsupervised machine learning techniques** such as **K-Me
 The project uses a railway safety/accident dataset (either synthetic or real).  
 You can place your dataset in the `/data` folder or load from a CSV file.
 
+
 **##🚀 How to Run**
 1.Clone the repository:
+
 git clone https://github.com/Krishna23-IT/Managing_Safety_Accidents_in_Railways.git
 cd Managing_Safety_Accidents_in_Railways
 
 2.Install required packages:
+
 pip install -r requirements.txt
-3.Run the server
+
+3.Run the server in your browser
 
 📧 Contact
 For any inquiries or feedback:
